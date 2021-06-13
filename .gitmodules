@@ -1,3 +1,6 @@
 [submodule "fbooking-service"]
 	path = fbooking-service
 	url = git@github.com:khoaDLuu/fbooking-service.git
+[submodule "fbk-api-gateway"]
+	path = fbk-api-gateway
+	url = git@github.com:khoaDLuu/fbk-api-gateway.git
