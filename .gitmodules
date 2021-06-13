@@ -25,3 +25,6 @@
 [submodule "movie-service"]
 	path = movie-service
 	url = git@github.com:BiRuVN/app-movie-genre-service.git
+[submodule "screening-service"]
+	path = screening-service
+	url = git@github.com:BiRuVN/app-screening-service.git
