@@ -7,3 +7,6 @@
 [submodule "fbk-config-server"]
 	path = fbk-config-server
 	url = git@github.com:khoaDLuu/fbk-config-server.git
+[submodule "fbk-service-discoverer"]
+	path = fbk-service-discoverer
+	url = git@github.com:khoaDLuu/fbk-service-discoverer.git
