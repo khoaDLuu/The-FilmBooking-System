@@ -16,3 +16,6 @@
 [submodule "admin-site"]
 	path = admin-site
 	url = git@github.com:HienM7/movie-admin.git
+[submodule "user-webapp"]
+	path = user-webapp
+	url = git@github.com:DucManh13/movie-web.git
