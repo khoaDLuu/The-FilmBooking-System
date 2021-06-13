@@ -22,3 +22,6 @@
 [submodule "auth-user-mailing"]
 	path = auth-user-mailing
 	url = git@github.com:PC271199/myplsapp.git
+[submodule "movie-service"]
+	path = movie-service
+	url = git@github.com:BiRuVN/app-movie-genre-service.git
