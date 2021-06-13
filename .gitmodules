@@ -19,3 +19,6 @@
 [submodule "user-webapp"]
 	path = user-webapp
 	url = git@github.com:DucManh13/movie-web.git
+[submodule "auth-user-mailing"]
+	path = auth-user-mailing
+	url = git@github.com:PC271199/myplsapp.git
