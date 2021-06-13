@@ -10,3 +10,6 @@
 [submodule "fbk-service-discoverer"]
 	path = fbk-service-discoverer
 	url = git@github.com:khoaDLuu/fbk-service-discoverer.git
+[submodule "management-site"]
+	path = management-site
+	url = git@github.com:HienM7/Movie-management.git
