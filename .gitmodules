@@ -13,3 +13,6 @@
 [submodule "management-site"]
 	path = management-site
 	url = git@github.com:HienM7/Movie-management.git
+[submodule "admin-site"]
+	path = admin-site
+	url = git@github.com:HienM7/movie-admin.git
