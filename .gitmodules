@@ -1,0 +1,3 @@
+[submodule "fbooking-service"]
+	path = fbooking-service
+	url = git@github.com:khoaDLuu/fbooking-service.git
