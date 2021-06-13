@@ -4,3 +4,6 @@
 [submodule "fbk-api-gateway"]
 	path = fbk-api-gateway
 	url = git@github.com:khoaDLuu/fbk-api-gateway.git
+[submodule "fbk-config-server"]
+	path = fbk-config-server
+	url = git@github.com:khoaDLuu/fbk-config-server.git
