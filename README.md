@@ -7,7 +7,8 @@ This monorepo is used for organizational purposes only.
 * Movie management (for staff): https://movie-management-app.herokuapp.com/
 * Movie booking web app (for normal users / guests): https://my-movie-booking.herokuapp.com/
 
-## How to clone
+## Development
+### How to clone
 * Clone the main repo
   ```
   git clone git@github.com:khoaDLuu/The-FilmBooking-System.git
@@ -17,7 +18,7 @@ This monorepo is used for organizational purposes only.
   git submodule update --init --recursive
   ```
 
-## How to update
+### How to update
 * Pull latest changes from remote repos (from this repo and its submodules) (**important!**)
   ```
   git pull --recurse-submodules
