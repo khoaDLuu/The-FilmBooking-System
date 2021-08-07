@@ -2,6 +2,11 @@
 FilmBooking is a system composed of web apps and microservices to provide movie booking service to users.
 This monorepo is used for organizational purposes only.
 
+## Web apps
+* Admin site: https://movie-admin.herokuapp.com/
+* Movie management (for staff): https://movie-management-app.herokuapp.com/
+* Movie booking web app (for normal users / guests): https://my-movie-booking.herokuapp.com/
+
 ## How to clone
 * Clone the main repo
   ```
